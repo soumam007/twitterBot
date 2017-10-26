@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot2",
+  "version": "1.0.0",
+  "description": "a bot in twitter that replies in my behalf",
+  "main": "hello.js",
+  "scripts": {
+        
+    "start": "node bot.js"   
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rainbow",
+    "awesome",
+    "twitter",
+    "bot"
+  ],
+  "author": "Soumam Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
